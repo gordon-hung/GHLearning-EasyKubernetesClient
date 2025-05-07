@@ -1,0 +1,6 @@
+﻿@GHLearning.EasyKubernetesClient.WebApi_HostAddress = http://localhost:5198
+
+GET {{GHLearning.EasyKubernetesClient.WebApi_HostAddress}}/info/
+Accept: application/json
+
+###
